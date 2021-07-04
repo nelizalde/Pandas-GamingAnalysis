@@ -52,3 +52,13 @@ Identify the 5 most profitable items by total purchase value, then list (in a ta
 - Purchase Count
 - Item Price
 - Total Purchase Value
+
+Written Analysis: 
+Based on the data ouput for Heroes of Pymoli, I was able to note the following three observations:
+
+1. The gender demographics and purchasing analysis (gender) data show a significant favoring in male players. The percentage of players that are male is a 83% compared to women at 14%. Hence, why we also see the 'Total Purchase Value' higher in male players than that of female players. This type of information can be very reliable for marketing and business stradegies when determining what target audiences will most likley buy the product or serive. 
+
+2. Taking into consideration the above observation based on gender, we can also further specify what age ranges will be most profitable in this scenario. We can pull this information by looking at the 'Age Demographics' section of our data. It is observed that about 45% of players are within the age of 20-24; therefore targeting younger adults might prove to be more beneficial for the company's marketing strategy. 
+
+3. The last sections of the data titled 'Most Popular' and 'Most Profitable' show great data and can offer insight for a company on what products are most successful and more sought after. This can help create a focus on what type of products or services players want to see more of and what trends/games will result more profitable for future sales. 
+
